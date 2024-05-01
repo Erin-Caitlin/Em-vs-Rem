@@ -1,0 +1,31 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 2px;
+  box-sizing: border-box;
+}
+h1 {
+    color: brown;
+    text-align: center;
+}
+.rem{
+    font-size: 16px;
+}
+.rem h2{
+    font-size: 3rem;
+}
+.rem p {
+    font-size: 2rem;
+}
+
+.Em{
+    font-size: 8px;
+}
+
+.Em h2{
+    font-size: 3em;
+}
+.Em p {
+    font-size: 2em;
+}
